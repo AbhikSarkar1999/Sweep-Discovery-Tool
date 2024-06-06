@@ -7,11 +7,11 @@ Sweep Discovery Tool takes VCF file along with tabixed VCF file as input. User h
 he tool predicts the selective sweep status of that specified region in terms of three classes such as i) No Selective Sweep, ii) Soft Selective Sweep and iii) Hard Selective Sweep. 
 Sweep Discovery Tool is accessible through http://cabgrid.res.in:5599/ and maintained by ICAR-Indian Agricultural Statistics Research Institute, New Delhi, 110012
 
-	Instruction for users
-User has to provide input in gzipped VCF format (.vcf.gz) along with the tabix-indexed VCF file (.vcf.gz.tbi). VCF file must contain sample information properly.
-User has to mention required input parameters such as “Chromosome No/Identifier”, “Start Position” and “End Position” along with the input files.
+	**Instruction for users:-**
+1. User has to provide input in gzipped VCF format (.vcf.gz) along with the tabix-indexed VCF file (.vcf.gz.tbi). VCF file must contain sample information properly.
+2. User has to mention required input parameters such as “Chromosome No/Identifier”, “Start Position” and “End Position” along with the input files.
 
-	Prediction procedure: -
+	**Prediction procedure: -**
 1.Open the Sweep Discovery Tool.
 2.Choose the “Predict Tab” from the home page.
 3. Provide Input files together at first in the required format and mention a Directory name. Then press the “Save” button to save the files.
