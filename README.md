@@ -12,8 +12,9 @@ Sweep Discovery Tool is accessible through http://cabgrid.res.in:5599/ and maint
 2. User has to mention required input parameters such as “Chromosome No/Identifier”, “Start Position” and “End Position” along with the input files.
 
 	**Prediction procedure: -**
-1.Open the Sweep Discovery Tool.
-2.Choose the “Predict Tab” from the home page.
+
+1. Open the Sweep Discovery Tool.
+2. Choose the “Predict Tab” from the home page.
 3. Provide Input files together at first in the required format and mention a Directory name. Then press the “Save” button to save the files.
 4. Now provide the necessary input parameters (Chromosome No/Identifier, Start Position and End Position) and finally click on “Predict” button for prediction.
 5. After prediction, the result will be shown in the interface as well as user can download the result in “.csv” format from the “Download Results” button.
