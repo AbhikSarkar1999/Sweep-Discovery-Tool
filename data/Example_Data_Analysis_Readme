@@ -1,0 +1,5 @@
+The Example_Data_Results.xlsx file contains predicted selective sweep status of randomly choosen 15 genomic regions from the ExampleVCF.vcf file.
+
+The ExampleVCF.vcf file has been utilized to Sweep Discovery Tool interface with the parameters as provided in the Example_Data_Results.xlsx file for each of 15 genomic regions.
+
+Necessary input files have been included in the Example_Data.zip file and can be used following the manual provided for Sweep Discovery Tool.
